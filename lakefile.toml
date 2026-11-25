@@ -1,0 +1,14 @@
+name = "Mathmatica"
+version = "0.1.0"
+defaultTargets = ["mathmatica"]
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
+
+[[lean_lib]]
+name = "Mathmatica"
+
+[[lean_exe]]
+name = "mathmatica"
+root = "Main"
