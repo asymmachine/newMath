@@ -22,3 +22,5 @@ import Mathmatica.DAGResolution
 import Mathmatica.CircuitEntropy
 import Mathmatica.BSWDAGFull
 import Mathmatica.RGTreewidth
+import Mathmatica.XORSATBasis
+import Mathmatica.ExpanderWidth
