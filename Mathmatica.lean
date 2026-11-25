@@ -14,3 +14,6 @@ import Mathmatica.TwoSATPoly
 import Mathmatica.OGPBarrier
 import Mathmatica.ExplicitBarriers
 import Mathmatica.DynamicalComplexity
+import Mathmatica.RGUniversality
+import Mathmatica.PeriodDoubling
+import Mathmatica.ProverDelayer
