@@ -12,3 +12,4 @@ import Mathmatica.OverlapGap
 import Mathmatica.BSWTradeoff
 import Mathmatica.TwoSATPoly
 import Mathmatica.OGPBarrier
+import Mathmatica.ExplicitBarriers
