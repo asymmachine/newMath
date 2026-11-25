@@ -17,3 +17,8 @@ import Mathmatica.DynamicalComplexity
 import Mathmatica.RGUniversality
 import Mathmatica.PeriodDoubling
 import Mathmatica.ProverDelayer
+import Mathmatica.ComplexityBarriers
+import Mathmatica.DAGResolution
+import Mathmatica.CircuitEntropy
+import Mathmatica.BSWDAGFull
+import Mathmatica.RGTreewidth
