@@ -13,3 +13,4 @@ import Mathmatica.BSWTradeoff
 import Mathmatica.TwoSATPoly
 import Mathmatica.OGPBarrier
 import Mathmatica.ExplicitBarriers
+import Mathmatica.DynamicalComplexity
