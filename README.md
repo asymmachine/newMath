@@ -18,6 +18,7 @@ All modules are designed following Mathlib conventions (zero `sorry`, zero warni
 | `Mathmatica/OverlapGap.lean` | Hamming distance metric axioms & permutation isometry, Overlap Gap Property (`HasOGP`), clustering equivalence relation (`ogp_clustering_equivalence` for $2\nu_1 < \nu_2$), cluster quotient `Setoid` | Bridge IV: 1-RSB Solution-Space Shattering & OGP |
 | `Mathmatica/BSWTradeoff.lean` | Tree-like Resolution (`ResTree`), restriction (`restrictTree`), lifting (`liftTree`), and **Ben-Sasson–Wigderson (2001) Width–Size Tradeoff** (`bsw_tree_width_size` & exponential lower bound `bsw_tree_size_lower_bound`: $S > 2^{W - w_0}$) | **Mathlib Candidate**: Proof Complexity Lower Bounds |
 | `Mathmatica/TwoSATPoly.lean` | Deduplicated `Finset` 2-SAT decimation (`decimateVar` / `decimateList`), exact 2-clause count `1 + 2n + C(2n, 2)`, and polynomial RG state-space bound `(decimateList vs φ).card ≤ (2n + 1)^2` | **Mathlib Candidate**: 2-SAT Polynomial RG Closure |
+| `Mathmatica/OGPBarrier.lean` | Discrete Intermediate Value Theorem in Hamming space (`discrete_ivt_hamming`), Coupled OGP (`HasCoupledOGP`), `δ`-stable solvers, and **OGP Stability Barrier Theorem** (`ogp_rules_out_stable_solver`: no stable algorithm can find valid states across a coupled OGP path) | Bridge IV Completed: Dynamical Continuity to Search Impossibility |
 
 ## Conjecture Bridges (Research Roadmap)
 
