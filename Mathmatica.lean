@@ -25,3 +25,4 @@ import Mathmatica.RGTreewidth
 import Mathmatica.XORSATBasis
 import Mathmatica.ExpanderWidth
 import Mathmatica.TseitinExpander
+import Mathmatica.BasisDynamics
