@@ -9,3 +9,5 @@ import Mathmatica.Schwarzian
 import Mathmatica.ResolutionCompleteness
 import Mathmatica.EquivariantRG
 import Mathmatica.OverlapGap
+import Mathmatica.BSWTradeoff
+import Mathmatica.TwoSATPoly
