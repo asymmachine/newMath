@@ -31,3 +31,5 @@ import Mathmatica.TimeSpaceVolume
 import Mathmatica.PebblingRG
 import Mathmatica.PyramidPebbling
 import Mathmatica.SeparatorRecomputation
+import Mathmatica.KmmExactPareto
+import Mathmatica.HyperResSimulation
