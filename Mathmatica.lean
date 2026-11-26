@@ -29,3 +29,4 @@ import Mathmatica.BasisDynamics
 import Mathmatica.ResidualEntropy
 import Mathmatica.TimeSpaceVolume
 import Mathmatica.PebblingRG
+import Mathmatica.PyramidPebbling
