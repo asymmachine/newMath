@@ -28,3 +28,4 @@ import Mathmatica.TseitinExpander
 import Mathmatica.BasisDynamics
 import Mathmatica.ResidualEntropy
 import Mathmatica.TimeSpaceVolume
+import Mathmatica.PebblingRG
